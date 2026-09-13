@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# O arquivo completo do OWID é grande; mantemos só os recortes do Brasil
+data/owid-covid-data.csv
